@@ -1,0 +1,19 @@
+{
+  "name": "dataloop-crawler",
+  "version": "1.0.0",
+  "description": "assignment of dataloopt o crawl",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masood1/Dataloop-Crawler.git"
+  },
+  "author": "masood",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/masood1/Dataloop-Crawler/issues"
+  },
+  "homepage": "https://github.com/masood1/Dataloop-Crawler#readme"
+}
